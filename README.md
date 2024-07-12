@@ -61,7 +61,6 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fady17&show_icons=true&locale=en&layout=compact" alt="fady17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fady17&type=svg&hide_border=true&theme=default&background=ffffff&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&currStreakNum=151515&sideNums=151515&sideLabels=151515&dates=151515&card_width=400&date_format=%5BY.%5Dn.j&range=last_6_months" alt="fady17" /></p>
 
