@@ -160,18 +160,18 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fady-dev&show_icons=true&locale=en&layout=compact" alt="fady-dev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fady176&show_icons=true&locale=en&layout=compact" alt="fady-dev" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=fady-dev&show_icons=true&locale=en&layout=compact&show=contributions&months=6" alt="fady-dev" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=fady176&show_icons=true&locale=en&layout=compact&show=contributions&months=6" alt="fady-dev" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fady-dev&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="fady-dev" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=fady176&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="fady-dev" />
   </a>
 </p>
